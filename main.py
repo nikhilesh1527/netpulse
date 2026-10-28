@@ -1,0 +1,1 @@
+print("Receiving the data from the API")
